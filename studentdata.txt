@@ -4,3 +4,6 @@ Tasks:
 2.Clean the data
 3.Analyze performance
 4.Create visualizations
+
+Expected Output:
+A cleaned dataset and summary of student performance
